@@ -1,1 +1,22 @@
-sample file A
+python2
+
+gh create <name>
+couldn't get it to work with options. 
+
+git clone https://github.com/.......
+
+add file
+echo "text to add" > file name
+
+if add file or mod file you have to add them before pushing them. 
+git add *
+
+commit
+git commit
+
+ssh to existing repo
+git remote originssh ssh://git@github.com/.......
+
+fetch/push
+git push originshh
+
