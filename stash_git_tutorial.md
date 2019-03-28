@@ -1,4 +1,7 @@
 # Introduction
+author: jsbain
+from: https://github.com/jsbain/stash_git_tutorial
+
 [StaSh](https://github.com/ywangd/stash) comes with a few tools for working with git repos. This tutorial will cover a few basic workflows for dealing with git repositories in stash/Pythonista specifically. It helps to be familiar with git commandline tools, although the git in stash is missing a great many features that you might be used to.
 
 ## Creating a repo from scratch
